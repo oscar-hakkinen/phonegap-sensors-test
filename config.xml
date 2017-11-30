@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Sensor Demo</name>
+    <name>phonegap sensor test</name>
 
     <description>
         A sensor demonstration application
